@@ -1,5 +1,5 @@
 ![](http://yuml.me/diagram/scruffy/usecase/
-note: figure 1.2{bg:beige}, 
+(Add Company)-(note: Condition: condicao {bg:beige}),
 [User]-(Login),
 [Site Maintainer]-(Add User),
 [Site Maintainer]-(Add Company),
