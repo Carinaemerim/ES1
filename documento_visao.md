@@ -23,21 +23,19 @@ e uma solução de sucesso seria **LISTE ALGUNS DOS BENEFÍCIOS CHAVES DESSA SOL
 
 ### Cliente  
 
- - **Nome**: _Nome do tipo da Parte Interessada_  
- - **Descrição**: _Breve descrição da parte interessada_  
- - **Responsabilidades**: _Descrição das responsabilidades das partes interessadas com relação ao sistema como, por exemplo, garantir que o sistema será mantido, garantir que terá demanda de mercado, aprovação de fundos, etc._   
+ 1. **Nome**: _Nome do tipo da Parte Interessada_  
+   - **Descrição**: _Breve descrição da parte interessada_  
+   - **Responsabilidades**: _Descrição das responsabilidades das partes interessadas com relação ao sistema como, por exemplo, garantir que o sistema será mantido, garantir que terá demanda de mercado, aprovação de fundos, etc._   
 
-*****
-
- - **Nome**:  
- - **Descrição**:  
- - **Responsabilidades**: 
+ 2. **Nome**:  
+   - **Descrição**:  
+   - **Responsabilidades**: 
 
 ### Time de Desenvolvimento
 
- - **Nome**: _Nome do tipo da Parte Interessada_  
- - **Descrição**: _Breve descrição da parte interessada_  
- - **Responsabilidades**: _Descrição das responsabilidades das partes interessadas com relação ao sistema como, por exemplo, quem será responsável pelo gerenciamento do projeto, análise, desenvolvimento, etc_   
+ 1. **Nome**: _Nome do tipo da Parte Interessada_  
+   - **Descrição**: _Breve descrição da parte interessada_  
+   - **Responsabilidades**: _Descrição das responsabilidades das partes interessadas com relação ao sistema como, por exemplo, quem será responsável pelo gerenciamento do projeto, análise, desenvolvimento, etc_   
 
 ***
 
@@ -59,20 +57,20 @@ Nosso produto **DECLARAÇÃO DO QUE ELE SE DIFERENCIA DOS DEMAIS**
 
 ## 5. Necessidades e Funcionalidades do Produto  
 
-### 1. Descrição da necessidade 1  
+### 1. Descrição da necessidade do usuário 1  
  - **Benefício**: Critico/Importante/Interessante  
  - **Funcionalidades**:  
-    1. Descrição/Nome da Funcionalidade 1.1  
+    1. Descrição/Nome da Funcionalidade do sistema 1.1  
        - Atores Envolvidos:  
-    2. Descrição/Nome da Funcionalidade 1.2  
+    2. Descrição/Nome da Funcionalidade do sistema 1.2  
        - Atores Envolvidos:  
 
-### 2. Descrição da necessidade 2   
+### 2. Descrição da necessidade do usuário 2   
  - **Benefício**: Critico/Importante/Interessante  
  - **Funcionalidades**:  
-    1. Descrição/Nome da Funcionalidade 2.1  
+    1. Descrição/Nome da Funcionalidade do sistema 2.1  
        - Atores Envolvidos:  
-    2. Descrição/Nome da Funcionalidade 2.2  
+    2. Descrição/Nome da Funcionalidade do sistema 2.2  
        - Atores Envolvidos:  
 
 
