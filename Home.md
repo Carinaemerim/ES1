@@ -1,6 +1,6 @@
 # Documentação
 
-## Diagrama de Casos de Uso
+## [Diagrama de Casos de Uso](./diagrama-caso-de-uso)
 
 ## [Regras de Negócio e Mensagens do Sistema] (./regras_mensagens)
 
