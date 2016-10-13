@@ -14,6 +14,6 @@ A descrição da regra ...
 <sub>_Mensagens do sistema definem todos os diálogos apresentados na interface com o usuário e podem estar associados a uma ou mais regras de negócio ou casos de uso._</sub>  
 
 ### MSG001:  
-Mensagem a ser apresentada ao usuário (**Confirmação, Erro, Notificação ou Alerta.**]  
+Mensagem a ser apresentada ao usuário (Selecione **Confirmação, Erro, Notificação ou Alerta.**]  
 ### MSG002:  
-Mensagem a ser apresentada ao usuário (**Confirmação, Erro, Notificação ou Alerta.**]  
+Mensagem a ser apresentada...
