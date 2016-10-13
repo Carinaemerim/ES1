@@ -1,6 +1,6 @@
 # Documento de Visão 
 
-## 1.Objetivo  
+##1. Objetivo  
 <sub>
 _O propósito deste documento é coletar, analisar e definir as necessidades de alto-nível e características do sistema, focando nas potencialidades requeridas pelos afetados e usuários-alvo, e como estes requisitos foram abordados no sistema.
 A visão do sistema documenta o ambiente geral de processos desenvolvidos para o sistema, fornecendo a todos os envolvidos uma descrição compreensível deste e suas macro-funcionalidades.
@@ -8,7 +8,7 @@ O Documento de Visão documenta as necessidades e funcionalidades do sistema_
 </sub>
   
 
-## 2. Descrição do Problema  
+##2. Descrição do Problema  
 <sub>_Fornece uma declaração resumida do problema a ser resolvido por este projeto._</sub>  
 
 O problema de **DESCREVER O PROBLEMA**  
