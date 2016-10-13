@@ -1,4 +1,4 @@
-# CdU001 - Manter Horas Cadastradas
+# CdU001 - Descrição do Caso de Uso
 
 **Resumo**: resumo do caso de uso.  
 **Tipo**: Concreto / Abstrato  
