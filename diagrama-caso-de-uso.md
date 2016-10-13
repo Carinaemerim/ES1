@@ -1,15 +1,2 @@
-![](http://yuml.me/diagram/scruffy/usecase/
-(Add Company)-(note: Condition: condicao {bg:beige}),
-[User]-(Login),
-[Site Maintainer]-(Add User),
-[Site Maintainer]-(Add Company),
-(Add User)<(Add Company),
-[Site Maintainer]-(Upload Docs),
-[User]-(Upload Docs), 
-[User]-(Full Text Search Docs), 
-(Full Text Search Docs)>(Preview Doc),
-[User]-(Browse Docs), 
-(Browse Docs)>(Preview Doc), 
-[Site Maintainer]-(Post New Event To The Web Site), 
-[User]-(View Events)
+![](http://yuml.me/diagram/plain;dir:TB;scale:100;/usecase/[Actor0]-(UseCase0),(UseCase0)<(UseCase1),[Actor0]-(UseCase2),[Actor1]^[Actor0],[Actor1]-(UseCase3),[Actor0],(UseCase0),(UseCase1),(UseCase2),(UseCase3),[Actor1].png
 )
