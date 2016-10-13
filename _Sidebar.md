@@ -1,0 +1,1 @@
+[Regras e Mensagens] (/wiki/regras_mensagens)
