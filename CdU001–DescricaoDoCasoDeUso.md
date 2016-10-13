@@ -1,7 +1,3 @@
-
-<object type="text/html" data="https://github.com/rodrigonoll/tmp/blob/master/img/cdu.md"></object>
-
-
 # CdU001 - Descrição do Caso de Uso
 
 **Resumo**: resumo do caso de uso.  
