@@ -9,12 +9,12 @@
 ## Fluxo Principal de Eventos:
 P1. Passo do Caso de Uso  
 P2. O sistema apresenta as opções de consulta e alteração. ([IV001](../../tmp/blob/master/img/ui001.png), [RNG001](./regras_mensagens#rng001) )   
-P3. O ator escolhe a opção de consulta. ([A1](A1. Título do fluxo))   
+P3. O ator escolhe a opção de consulta. ([A1](A1))   
 P4. ...
 
 ## Fluxos Alternativos:  
 
-### A1. Título do fluxo.
+### [A1] Título do Fluxo 
 A1.1. Passo do fluxo alternativo.  
 A1.2. Passo do fluxo alternativo.  
 A1.3. Passo do fluxo alternativo.  
