@@ -7,7 +7,6 @@ A visão do sistema documenta o ambiente geral de processos desenvolvidos para o
 O Documento de Visão documenta as necessidades e funcionalidades do sistema_
 </sub>
   
-***
 
 ## 2. Descrição do Problema  
 <sub>_Fornece uma declaração resumida do problema a ser resolvido por este projeto._</sub>  
@@ -16,8 +15,6 @@ O problema de **DESCREVER O PROBLEMA**
 Afeta **OS INTERESSADOS AFETADOS PELO PROBLEMA**  
 e seu impacto é **QUAL É O IMPACTO DO PROBLEMA?**  
 e uma solução de sucesso seria **LISTE ALGUNS DOS BENEFÍCIOS CHAVES DESSA SOLUÇÃO**  
-
-***
 
 ## 3. Definição das Partes Interessadas  
 
@@ -37,10 +34,8 @@ e uma solução de sucesso seria **LISTE ALGUNS DOS BENEFÍCIOS CHAVES DESSA SOL
    - **Descrição**: _Breve descrição da parte interessada_  
    - **Responsabilidades**: _Descrição das responsabilidades das partes interessadas com relação ao sistema como, por exemplo, quem será responsável pelo gerenciamento do projeto, análise, desenvolvimento, etc_   
 
-***
 
-
-## 4.Descrição do Produto  
+## 4. Descrição do Produto  
 <sub> _Fornece uma declaração de alto nível resumindo a posição que o produto pretende atingir no mercado. Utilize o modelo abaixo:_ </sub>
 
 Para **CONSUMIDOR FINAL**  
@@ -50,10 +45,6 @@ O **Nome do Produto**
 Que **DECLARAÇÃO DO BENEFÍCIO CHAVE; ISTO É, COMPARADO AOS OUTROS PRODUTOS, POR QUE SERIA MELHOR COMPRAR ESTE OU DESENVOLVER ESSA SOLUÇÃO?**  
 Ao contrário **CONCORRENTES NO MERCADO**  
 Nosso produto **DECLARAÇÃO DO QUE ELE SE DIFERENCIA DOS DEMAIS**  
-
-
-***
-
 
 ## 5. Necessidades e Funcionalidades do Produto  
 
@@ -73,15 +64,8 @@ Nosso produto **DECLARAÇÃO DO QUE ELE SE DIFERENCIA DOS DEMAIS**
     2. Descrição/Nome da Funcionalidade do sistema 2.2  
        - Atores Envolvidos:  
 
-
-***
-
-
 ## 6. Proposta de Solução Tecnológica Escolhida  
 <sub> _Fornece uma declaração de alto nível sobre as tecnologias envolvidas no projeto, incluindo Hardware, Software, Rede, etc._ </sub>  
-
-***
-
 
 ## 7. Restrições  
 <sub>_Relacionar os fatores que afetam a perfeita implementação das características propostas para o sistema, descrevendo premissas assumidas; restrições à modelagem, implantação e operacionalização do sistema; e dependências que estes fatores geram em relação ao desenvolvimento do aplicativo, explicitando os riscos e impactos envolvidos.   
