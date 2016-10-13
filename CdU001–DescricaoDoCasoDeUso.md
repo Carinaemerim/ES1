@@ -8,7 +8,7 @@
 
 ## Fluxo Principal de Eventos:
 P1. Passo do Caso de Uso  
-P2. O sistema apresenta as opções de consulta e alteração. ([IV001](../../tmp/blob/master/img/ui001.png), [RNG001](./regras_mensagens#rng001) )   
+P2. O sistema apresenta as opções de consulta e alteração. ([IV001](../blob/master/img/ui001.png), [RNG001](./regras_mensagens#rng001) )   
 P3. O ator escolhe a opção de consulta. ([A1](#a1))   
 P4. ...
 
