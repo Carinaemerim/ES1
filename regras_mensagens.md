@@ -8,6 +8,8 @@ A descrição da regra pode ser feita em linguagem natural e obedecendo tipicame
 ### RNG002  
 A descrição da regra ... 
 
+***
+
 ## 2. Mensagens do Sistema  
 _Mensagens do sistema definem todos os diálogos apresentados na interface com o usuário e podem estar associados a uma ou mais regras de negócio ou casos de uso._  
 
