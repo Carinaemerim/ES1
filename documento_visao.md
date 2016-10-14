@@ -40,7 +40,7 @@ O Documento de Visão documenta as necessidades e funcionalidades do sistema_
 
 > Para **CONSUMIDOR FINAL**  
 > Que **DECLARAÇÃO DA NECESSIDADE E OPORTUNIDADE**  
-> O **Nome do Produto**  
+> O **NOME DO PRODUTO**  
 > É UM **CATEGORIA DO PRODUTO**  
 > Que **DECLARAÇÃO DO BENEFÍCIO CHAVE; ISTO É, COMPARADO AOS OUTROS PRODUTOS, POR QUE SERIA MELHOR COMPRAR ESTE OU DESENVOLVER ESSA SOLUÇÃO?**  
 > Ao contrário **CONCORRENTES NO MERCADO**  
