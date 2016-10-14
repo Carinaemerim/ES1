@@ -1,6 +1,4 @@
-# Análise e Projeto de Sistemas
-
-## Documentação do Sistema  
+# Documentação do Sistema  
  - [Documento de Visão] (./documento_visao)
  - [Glossário] (./glossario)
  - [Diagrama de Casos de Uso](./diagrama-caso-de-uso)
