@@ -6,4 +6,4 @@
  - [Protótipos] (../blob/master/img/)
 
 ### Especificação de Casos de Uso  
- - [CdU001 - Descricao Do Caso De Uso] (./CdU001–DescricaoDoCasoDeUso)
+ - [CdU001 - Descricao Do Caso De Uso] (./CdU001–EspecificacaoDoCasoDeUso)
