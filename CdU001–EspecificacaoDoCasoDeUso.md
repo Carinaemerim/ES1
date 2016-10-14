@@ -1,4 +1,4 @@
-# CdU001 - Descrição do Caso de Uso
+# CdU001 - Especificação do Caso de Uso
 
 **Resumo**: resumo do caso de uso.  
 **Tipo**: Concreto / Abstrato  
