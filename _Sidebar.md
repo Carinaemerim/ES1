@@ -1,7 +1,7 @@
 # Documentação do Sistema  
  - [Documento de Visão] (./documento_visao)
  - [Glossário] (./glossario)
- - [Diagrama de Casos de Uso](./diagrama-caso-de-uso)
+ - [Diagramas](./diagrama-caso-de-uso)
  - [Regras de Negócio e Mensagens do Sistema] (./regras_mensagens)
  - [Protótipos] (../blob/master/arquivos/prototipos/)
 
