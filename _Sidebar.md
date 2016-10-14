@@ -3,7 +3,7 @@
  - [Glossário] (./glossario)
  - [Diagrama de Casos de Uso](./diagrama-caso-de-uso)
  - [Regras de Negócio e Mensagens do Sistema] (./regras_mensagens)
- - [Protótipos] (../blob/master/img/)
+ - [Protótipos] (../blob/master/arquivos/prototipos/)
 
 ### Especificação de Casos de Uso  
  - [CdU001 - Especificação Do Caso De Uso] (./CdU001–EspecificacaoDoCasoDeUso)
