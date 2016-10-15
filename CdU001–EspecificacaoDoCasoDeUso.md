@@ -8,7 +8,7 @@
 
 ## Fluxo Principal de Eventos:
 P1. O ator solicita alguma coisa.  
-P2. O sistema apresenta as opções de consulta e alteração. ([IV001](../blob/master/arquivos/prototipos/ui001.png), [RNG001](./regras_mensagens#rng001), [MSG001](./regras_mensagens#msg001) )   
+P2. O sistema apresenta as opções de consulta e alteração. ([IV001](./prototipos#iv001), [RNG001](./regras_mensagens#rng001), [MSG001](./regras_mensagens#msg001) )   
 P3. O ator escolhe a opção de consulta. ([A1](#a1))   
 P4. ...
 
