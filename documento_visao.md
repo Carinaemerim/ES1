@@ -10,10 +10,12 @@ O Documento de Visão documenta as necessidades e funcionalidades do sistema_
 ## 2. Descrição do Problema  
 <sub>_Fornece uma declaração resumida do problema a ser resolvido por este projeto._</sub>  
 
-> O problema de **DESCREVER O PROBLEMA**  
-> Afeta **OS INTERESSADOS AFETADOS PELO PROBLEMA**  
-> e seu impacto é **QUAL É O IMPACTO DO PROBLEMA?**  
-> e uma solução de sucesso seria **LISTE ALGUNS DOS BENEFÍCIOS CHAVES DESSA SOLUÇÃO**  
+```
+ O problema de **DESCREVER O PROBLEMA**  
+ Afeta **OS INTERESSADOS AFETADOS PELO PROBLEMA**  
+ e seu impacto é **QUAL É O IMPACTO DO PROBLEMA?**  
+ e uma solução de sucesso seria **LISTE ALGUNS DOS BENEFÍCIOS CHAVES DESSA SOLUÇÃO**  
+```
 
 ## 3. Definição das Partes Interessadas  
 
@@ -37,13 +39,15 @@ O Documento de Visão documenta as necessidades e funcionalidades do sistema_
 ## 4. Descrição do Produto  
 <sub> _Fornece uma declaração de alto nível resumindo a posição que o produto pretende atingir no mercado. Utilize o modelo abaixo:_ </sub>
 
-> Para **CONSUMIDOR FINAL**  
-> Que **DECLARAÇÃO DA NECESSIDADE E OPORTUNIDADE**  
-> O **NOME DO PRODUTO**  
-> É UM **CATEGORIA DO PRODUTO**  
-> Que **DECLARAÇÃO DO BENEFÍCIO CHAVE; ISTO É, COMPARADO AOS OUTROS PRODUTOS, POR QUE SERIA MELHOR COMPRAR ESTE OU DESENVOLVER ESSA SOLUÇÃO?**  
-> Ao contrário **CONCORRENTES NO MERCADO**  
-> Nosso produto **DECLARAÇÃO DO QUE ELE SE DIFERENCIA DOS DEMAIS**  
+```
+ Para **CONSUMIDOR FINAL**  
+ Que **DECLARAÇÃO DA NECESSIDADE E OPORTUNIDADE**  
+ O **NOME DO PRODUTO**  
+ É UM **CATEGORIA DO PRODUTO**  
+ Que **DECLARAÇÃO DO BENEFÍCIO CHAVE; ISTO É, COMPARADO AOS OUTROS PRODUTOS, POR QUE SERIA MELHOR COMPRAR ESTE OU DESENVOLVER ESSA SOLUÇÃO?**  
+ Ao contrário **CONCORRENTES NO MERCADO**  
+ Nosso produto **DECLARAÇÃO DO QUE ELE SE DIFERENCIA DOS DEMAIS**  
+```
 
 ## 5. Necessidades e Funcionalidades do Produto  
 
