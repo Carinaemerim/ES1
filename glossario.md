@@ -1,4 +1,4 @@
-#Glossário  
+# Glossário  
 
 ## 1. Informações Gerais  
 <sub> _Este documento apresenta um grupo de conceitos e suas definições._ </sub>  
