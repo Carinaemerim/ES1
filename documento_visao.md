@@ -1,11 +1,9 @@
 # Documento de Visão  
   
 ## 1. Objetivo  
-<sub>
 _O propósito deste documento é coletar, analisar e definir as necessidades de alto-nível e características do sistema, focando nas potencialidades requeridas pelos afetados e usuários-alvo, e como estes requisitos foram abordados no sistema.
 A visão do sistema documenta o ambiente geral de processos desenvolvidos para o sistema, fornecendo a todos os envolvidos uma descrição compreensível deste e suas macro-funcionalidades.
 O Documento de Visão documenta as necessidades e funcionalidades do sistema_
-</sub>  
 
 ## 2. Descrição do Problema  
 <sub>_Fornece uma declaração resumida do problema a ser resolvido por este projeto._</sub>  
@@ -68,15 +66,15 @@ O Documento de Visão documenta as necessidades e funcionalidades do sistema_
        - Atores Envolvidos:  
 
 ## 6. Proposta de Solução Tecnológica Escolhida  
-<sub> _Fornece uma declaração de alto nível sobre as tecnologias envolvidas no projeto, incluindo Hardware, Software, Rede, etc._ </sub>  
+_Fornece uma declaração de alto nível sobre as tecnologias envolvidas no projeto, incluindo Hardware, Software, Rede, etc._ 
 
 ## 7. Restrições  
-<sub>_Relacionar os fatores que afetam a perfeita implementação das características propostas para o sistema, descrevendo premissas assumidas; restrições à modelagem, implantação e operacionalização do sistema; e dependências que estes fatores geram em relação ao desenvolvimento do aplicativo, explicitando os riscos e impactos envolvidos.   
+_Relacionar os fatores que afetam a perfeita implementação das características propostas para o sistema, descrevendo premissas assumidas; restrições à modelagem, implantação e operacionalização do sistema; e dependências que estes fatores geram em relação ao desenvolvimento do aplicativo, explicitando os riscos e impactos envolvidos.   
 Exemplos de Restrições:  
 **Funcionais/Negócio** - Relacionar as restrições funcionais do sistema. (Ex.: “O sistema não deve permitir a visualização dos dados cadastrais do cliente, caso a declaração esteja cancelada, ou o usuário não pertença à unidade de arquivamento dos fornecedores.”)  
 **Tecnológicas** - O aplicativo poderá ser executado nos navegadores Internet Explorer versão 4.0 e Mozilla Firefox;  
 **Operacionais** - Relacionar as restrições operacionais do sistema; mapeamento de Perfil por Funcionalidade. (Ex.: “As bases de assunto e as tabelas de domínio devem estar devidamente criadas no ambiente XPTO para permitir a correta execução do sistema; a funcionalidade XPTO02 só é permitida para o perfil X.”)_
-<sub>  
+ 
 
 
 
