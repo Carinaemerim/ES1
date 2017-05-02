@@ -1,19 +1,11 @@
 # Documento de Visão  
   
 ## 1. Objetivo  
-_O propósito deste documento é coletar, analisar e definir as necessidades de alto-nível e características do sistema, focando nas potencialidades requeridas pelos afetados e usuários-alvo, e como estes requisitos foram abordados no sistema.
-A visão do sistema documenta o ambiente geral de processos desenvolvidos para o sistema, fornecendo a todos os envolvidos uma descrição compreensível deste e suas macro-funcionalidades.
-O Documento de Visão documenta as necessidades e funcionalidades do sistema_
+O propósito deste software é facilitar o acesso ao condôminio pelos moradores e visitantes, abrangendo também as questões de segurança de todos. Será possível cadastrar no software as placas dos veículos autorizados a entrar no condôminio e também a digital dos moradores, o que acarretará em menor tempo gasto na parte de fora da portaria aguardando validação e verificação de identidade dos condôminos, familiares e amigos.
 
 ## 2. Descrição do Problema  
-<sub>_Fornece uma declaração resumida do problema a ser resolvido por este projeto._</sub>  
-
-```
- O problema de **DESCREVER O PROBLEMA**  
- Afeta **OS INTERESSADOS AFETADOS PELO PROBLEMA**  
- e seu impacto é **QUAL É O IMPACTO DO PROBLEMA?**  
- e uma solução de sucesso seria **LISTE ALGUNS DOS BENEFÍCIOS CHAVES DESSA SOLUÇÃO**  
-```
+Atualmente os condôminos, amigos e familiares precisam apresentar documento de identificação na portaria e aguardar do lado externo do condôminio até que a validação de sua permissão de acesso seja verificada, gastando tempo desnecessário, provocando, algumas vezes, filas para entrada no condôminio e gerando insegurança aos moradores por estarem parados na parte de fora do condôminio. 
+A solução que o software apresenta irá tornar o acesso ao condôminio mais rápido e seguro, através de um cadastro informatizado de veículos e moradores que seram validados por placa e digital respectivamente.
 
 ## 3. Definição das Partes Interessadas  
 
