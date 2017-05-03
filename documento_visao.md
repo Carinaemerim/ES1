@@ -23,7 +23,7 @@ A solução que o software apresenta irá tornar o acesso ao condominio mais rá
 
  1. **Nome**: Carina Emerim Leal 
    - **Descrição**: Análise e desenvolvimento do projeto
-   - **Responsabilidades**: Apresenta a ideia para resolver o problema do condominio e desenvolve as documentações necessárias para verificar a viabilidade do projeto e possível eficácia na resolução do problema apresentado..  
+   - **Responsabilidades**: Apresenta a ideia para resolver o problema do condominio, desenvolve o mapa de empatia de uma das personas e fabrica o documento de visão referente ao projeto.
 
 
 ## 4. Descrição do Produto  
@@ -56,14 +56,13 @@ Para Sindicos e Portaria que necessitam de uma solução eficaz no monitoramento
        - Atores Envolvidos: Moradores e portaria.          
 
 ## 6. Proposta de Solução Tecnológica Escolhida  
-_Fornece uma declaração de alto nível sobre as tecnologias envolvidas no projeto, incluindo Hardware, Software, Rede, etc._ 
+O projeto envolve um software que rode online e que permita atualizações por parte do síndico. Deverá ser funcional em dispositivos mobiles e navegadores, porém em casos de falta de internet permite o acesso ao banco de dados que já constava atualizado anteriormente para que não se comprometa a utilização.
+Também será necessário um leitor biométrico para que seja possível capturar as digitais dos usuários.
 
-## 7. Restrições  
-_Relacionar os fatores que afetam a perfeita implementação das características propostas para o sistema, descrevendo premissas assumidas; restrições à modelagem, implantação e operacionalização do sistema; e dependências que estes fatores geram em relação ao desenvolvimento do aplicativo, explicitando os riscos e impactos envolvidos.   
-Exemplos de Restrições:  
-**Funcionais/Negócio** - Relacionar as restrições funcionais do sistema. (Ex.: “O sistema não deve permitir a visualização dos dados cadastrais do cliente, caso a declaração esteja cancelada, ou o usuário não pertença à unidade de arquivamento dos fornecedores.”)  
-**Tecnológicas** - O aplicativo poderá ser executado nos navegadores Internet Explorer versão 4.0 e Mozilla Firefox;  
-**Operacionais** - Relacionar as restrições operacionais do sistema; mapeamento de Perfil por Funcionalidade. (Ex.: “As bases de assunto e as tabelas de domínio devem estar devidamente criadas no ambiente XPTO para permitir a correta execução do sistema; a funcionalidade XPTO02 só é permitida para o perfil X.”)_
+## 7. Restrições    
+**Funcionais/Negócio** - Deverá haver uma mudança de comportamento das pessoas que irão acessar o condomínio afim de se adaptarem a utilização do leitor biométrico. 
+**Tecnológicas** - O aplicativo necessita do leitor biométrico para funcionar adequadamente.  
+**Operacionais** - É necessária a correta utilização por parte dos usuários do sistema e pessoas envolvidas, inserir dados confiáveis.
  
 
 
